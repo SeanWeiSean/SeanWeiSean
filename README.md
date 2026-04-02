@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeanWeiSean, a tech leader with 5 folks in my squad.
+- 👋 Hi, I’m @SeanWeiSean, a tech leader with 5 folks in my squad, aiming for LLM Serving, Agentic investigation.
 - 👀 I’m interested in microservice & large scale - high performance system design and implementation.
 - 🌱 I’m currently working on LLM API Serving including Deploy/Performance Test/Network Test/Online Debug.
 - 💞️ I’m looking to collaborate on microservice & backend area.
